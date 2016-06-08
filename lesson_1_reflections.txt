@@ -1,0 +1,7 @@
+diff -u oldfile newfile
+with -u flag we can view the line number and easily compare the difference
+
+--------------------------------------
+git diff old_commit_id new_commit_id
+
+git checkout != svn checkout
