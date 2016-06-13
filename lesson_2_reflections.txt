@@ -2,3 +2,4 @@ git diff
 git branch
 git merge
 git tag
+git pull = git fetch + git merge
