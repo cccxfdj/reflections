@@ -7,3 +7,5 @@ git pull --rebase
 git br -vv: change the tracking branches
 git push origin local-branch:remote-branch
 git push --delete origin branch_name(or tag_name): delete remote branch or tag
+git co -tb branch_name: create a new branch tracking the current one
+
