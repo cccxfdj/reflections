@@ -5,3 +5,6 @@ keke
 git diff old_commit_id new_commit_id
 
 git checkout != svn checkout
+--------------------------------------
+
+test if push to remote branch works
