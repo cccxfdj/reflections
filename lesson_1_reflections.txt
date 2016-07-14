@@ -10,3 +10,7 @@ git checkout != svn checkout
 test if push to remote branch works
 it seems I have to use
 git push origin local_branch:remote_branch
+
+--------------------------------------
+
+pull rebase is useful
